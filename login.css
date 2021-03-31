@@ -16,7 +16,6 @@ display: flex;
 justify-content: center;
 align-items: center;
 padding:2rem;
-
 }
 /* Setting of the backgroung image with before peusduo selector */
     header::before {
@@ -634,15 +633,3 @@ width: 80%;
 width: 80%;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
